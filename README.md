@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-Name: Yuvadarshini S
-Register No: 212221230126
+<h4>Name: Yuvadarshini S</h4>
+<h4>Register No: 212221230126</h4>
 ## Ex. No: 01
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
